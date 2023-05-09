@@ -13,4 +13,6 @@ Olá!! Bem-vindo(a) ao meu perfil do git. Meu nome é Gabriel e eu sou um estuda
   <a href="https://www.instagram.com/sakoda999/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a
 </div>
 
-   ![GabrielSakoda Status](https://github-readme-stats.vercel.app/api?username=GabrielSakoda&show_icons=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSakoda&langs_count=8&theme=dracula)
+
+![Gabriel Sakoda Stats](https://github-readme-stats.vercel.app/api?username=GabrielSakoda&show_icons=true&theme=dracula)
