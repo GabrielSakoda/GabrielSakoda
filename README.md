@@ -1,5 +1,6 @@
 Olá!! Bem-vindo(a) ao meu perfil do git. Meu nome é Gabriel e eu sou um estudante de programação, penso em me tornar um dev fullstack. Além de gostar bastante de programação, curto games também!
 ##
+<h2>Skills</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
