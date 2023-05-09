@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá!! Bem-vindo(a) ao meu perfil do git. Meu nome é Gabriel e eu sou um estudante de programação, penso em me tornar um dev full-stack. Além de gostar bastante de programação, curto games também!
 
 <!--
 **GabrielSakoda/GabrielSakoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
