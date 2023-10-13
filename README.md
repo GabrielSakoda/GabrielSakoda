@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem-vindo+ao+meu+perfil+do+GitHub.+Sou+estudante+de+programação+e+penso+em+tornar+um+desenvolvedor+full+stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 <div style="display: inline_block"><br>
 <h2><strong>MY SKILLS:</h2>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
